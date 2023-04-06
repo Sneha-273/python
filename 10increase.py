@@ -1,3 +1,4 @@
+
 a=int(input("enter range:"))
 
 for i in range(a):
